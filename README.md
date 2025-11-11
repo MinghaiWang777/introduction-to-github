@@ -11,6 +11,8 @@
 
 _Get started using GitHub in less than an hour._
 
+> 阅读中文版本 | [Read this in Chinese (简体中文)](README.zh-CN.md)
+
 </header>
 
 <!--
